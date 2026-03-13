@@ -109,4 +109,9 @@ No external numerical libraries are used.
 
 ## Author
 
-This project was created for a Numerical Analysis mini-project assignment.
+**Name:** SUM Sakpheapancharith  
+**Student ID:** e20230274  
+**Program:** Data Science  
+**Institution:** Institute of Technology of Cambodia (ITC)
+
+This project was developed as part of a Numerical Analysis mini-project assignment.
